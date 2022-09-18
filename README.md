@@ -73,5 +73,5 @@ Users should be able to:
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-[live-page]: jczyszczon.github.io/qr-code-component/
+[live-page]: https://jczyszczon.github.io/qr-code-component/
 [solution-url]: https://www.frontendmentor.io/solutions/responsive-qr-code-component-R7-4Jdx52j
